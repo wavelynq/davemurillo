@@ -84,12 +84,7 @@ body {
   margin-top: 5px;
 }
 
-/* Divider */
-.divider {
-  width: 1px;
-  height: 110px;
-  background: rgba(255,255,255,0.1);
-  margin: 0 15px;
+
 }
 
 /* Logo */
