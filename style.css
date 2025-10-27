@@ -95,8 +95,8 @@ body {
 }
 
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 115px;
+  height: 115px;
   border-radius: 15px;
   object-fit: cover;
   border: 2px solid rgba(255,255,255,0.2);
